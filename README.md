@@ -164,7 +164,7 @@ The output graphs and plots are shown in the images bellow:
 
 ![SurvivalvsClass.png](Titanic%20Survival%20Prediction%20(Machine%20Learning)%2047dd554ce73a4c6fac6bb26fa095cf37/SurvivalvsClass.png)
 
-![CorrelationMatrix.png](Titanic%20Survival%20Prediction%20(Machine%20Learning)%2047dd554ce73a4c6fac6bb26fa095cf37/CorrelationMatrix.png)
+![CorrelationMatrix.png](https://github.com/arjithpraison7/titanic-survival-prediction/blob/main/CorrelationMatrix.png)
 
 ## Choosing a classifier
 
