@@ -160,9 +160,9 @@ plt.show()
 
 The output graphs and plots are shown in the images bellow:
 
-![AgeDistribution.png](Titanic%20Survival%20Prediction%20(Machine%20Learning)%2047dd554ce73a4c6fac6bb26fa095cf37/AgeDistribution.png)
+![AgeDistribution.png](https://github.com/arjithpraison7/titanic-survival-prediction/blob/main/AgeDistribution.png)
 
-![SurvivalvsClass.png](Titanic%20Survival%20Prediction%20(Machine%20Learning)%2047dd554ce73a4c6fac6bb26fa095cf37/SurvivalvsClass.png)
+![SurvivalvsClass.png](https://github.com/arjithpraison7/titanic-survival-prediction/blob/main/SurvivalvsClass.png)
 
 ![CorrelationMatrix.png](https://github.com/arjithpraison7/titanic-survival-prediction/blob/main/CorrelationMatrix.png)
 
